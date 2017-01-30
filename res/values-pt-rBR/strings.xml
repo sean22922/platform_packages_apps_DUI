@@ -48,6 +48,9 @@
   <string name="label_action_volume_panel">Painel de volume</string>
   <string name="label_action_clear_notifications">Limpar notificações</string>
   <string name="label_action_editing_smartbar">Editor de Barra Inteligente</string>
+  <string name="label_action_split_screen">Dividir tela</string>
+  <string name="label_action_one_handed_mode_left">Modo de uma mão (lado esquerdo)</string>
+  <string name="label_action_one_handed_mode_right">Modo de uma mão (lado direito)</string>
   <!-- Smartbar -->
   <string name="label_smartbar_actions">Ações</string>
   <string name="label_smartbar_icon">Ícone</string>
